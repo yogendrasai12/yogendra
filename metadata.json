@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Video Generator",
+  "description": "Turn your words, voice, and images into stunning videos using Gemini Veo models.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
